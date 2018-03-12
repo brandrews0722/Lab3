@@ -1,0 +1,16 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "twitterapp",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandon andrews",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "twit": "^2.2.9"
+  }
+}
